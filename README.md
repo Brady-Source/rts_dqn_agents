@@ -13,7 +13,7 @@ For CSCI486 Deep and Reinforcement Learning final project.
     - The farmer can be eliminated first.
 - First team to eliminate the other teams, farmer and fighter win.
 
--<img src="src/episode_1.gif" width="300" alt="Demo GIF">
+<img src="src/episode_1.gif" width="400" alt="Demo GIF">
 
 ## Table of Contents
 - [Features](#-features)
